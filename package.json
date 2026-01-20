@@ -1,6 +1,6 @@
 {
-  "name": "install-mcp",
-  "version": "1.10.2",
+  "name": "@playwriter/install-mcp",
+  "version": "1.10.4",
   "description": "A CLI tool to install and manage MCP servers.",
   "bin": {
     "install-mcp": "./bin/run"
@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/supermemoryai/install-mcp.git"
+    "url": "git+ssh://git@github.com/remorses/install-mcp.git"
   },
   "scripts": {
     "build": "tsup-node",
